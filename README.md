@@ -1,0 +1,2 @@
+# STM32F10x_USART_LinkedListBuffer
+基于STM32F10x固件库的USART初始化和驱动程序，带链表缓冲
